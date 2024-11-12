@@ -62,22 +62,22 @@ Pré-requisitos
 Passos para Execução
 
     Clone o Repositório:
-        git clone https://github.com/seu-usuario/nome-do-repositorio.git
-        cd nome-do-repositorio
+        git clone https://github.com/TASBR/BlogMba.git
+        cd https://github.com/TASBR/BlogMba.git
 
     Configuração do Banco de Dados:
         No arquivo appsettings.json, configure a string de conexão do SQL Server.
         Rode o projeto para que a configuração do Seed crie o banco e popule com os dados básicos
 
     Executar a Aplicação MVC:
-        cd src/Blog.Mvc/
+        cd src/Blog.MVC/
         dotnet run
-        Acesse a aplicação em: http://localhost:5000
+        Acesse a aplicação em: http://localhost:5033
 
     Executar a API:
         cd src/Blog.Api/
         dotnet run
-        Acesse a documentação da API em: http://localhost:5001/swagger
+        Acesse a documentação da API em: http://localhost:7164/swagger
 
 7. Instruções de Configuração
 
