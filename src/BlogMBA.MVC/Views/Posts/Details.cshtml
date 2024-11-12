@@ -1,0 +1,37 @@
+﻿@model BlogMBA.Business.Models.Posts.Post
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Post</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Texto)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Texto)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DataCriacao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DataCriacao)
+        </dd>
+    </dl>
+</div>
+@await Html.PartialAsync("_ListaComentarios", Model)
+<div>
+    <a class="btn btn-info" asp-action="Index" asp-controller="Home">Voltar</a>
+</div>

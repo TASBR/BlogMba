@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|solutionrelative:src\\blogmba.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.api\\blogmba.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|solutionrelative:src\\blogmba.api\\blogmba.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|solutionrelative:src\\blogmba.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\configurations\\databaseselectorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\configurations\\databaseselectorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.api\\configuration\\dbcontextconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|solutionrelative:src\\blogmba.api\\configuration\\dbcontextconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.api\\utils\\gerarjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|solutionrelative:src\\blogmba.api\\utils\\gerarjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|solutionrelative:src\\blogmba.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|solutionrelative:src\\blogmba.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.api\\models\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|solutionrelative:src\\blogmba.api\\models\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.api\\configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|solutionrelative:src\\blogmba.api\\configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.api\\models\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|solutionrelative:src\\blogmba.api\\models\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.api\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|solutionrelative:src\\blogmba.api\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EEA0D37-3749-4FA3-B6E5-517702B41ED9}|src\\BlogMBA.API\\BlogMBA.API.csproj|solutionrelative:src\\blogmba.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\views\\comentarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\views\\comentarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\configurations\\dbmigrationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\configurations\\dbmigrationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\views\\shared\\_listacomentarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\views\\shared\\_listacomentarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\views\\comentarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\views\\comentarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC513D8-7F75-4475-8ABC-42C17237B6E1}|src\\BlogMBA.Business\\BlogMBA.Business.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.business\\models\\comentarios\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC513D8-7F75-4475-8ABC-42C17237B6E1}|src\\BlogMBA.Business\\BlogMBA.Business.csproj|solutionrelative:src\\blogmba.business\\models\\comentarios\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\views\\posts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\views\\posts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\configurations\\customusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\configurations\\customusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331FEEE9-07EB-4DCF-98ED-8270C5D41BFC}|src\\BlogMBA.Data\\BlogMBA.Data.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.data\\migrations\\20241112003509_autornocomentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331FEEE9-07EB-4DCF-98ED-8270C5D41BFC}|src\\BlogMBA.Data\\BlogMBA.Data.csproj|solutionrelative:src\\blogmba.data\\migrations\\20241112003509_autornocomentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331FEEE9-07EB-4DCF-98ED-8270C5D41BFC}|src\\BlogMBA.Data\\BlogMBA.Data.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.data\\repository\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331FEEE9-07EB-4DCF-98ED-8270C5D41BFC}|src\\BlogMBA.Data\\BlogMBA.Data.csproj|solutionrelative:src\\blogmba.data\\repository\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\views\\comentarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\views\\comentarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|c:\\users\\thiag\\onedrive\\documentos\\mba\\projetos\\projetos\\blogmba\\src\\blogmba.mvc\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA715B41-CCD7-4EA0-9540-0E6FB104DD2A}|src\\BlogMBA.MVC\\BlogMBA.MVC.csproj|solutionrelative:src\\blogmba.mvc\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\BlogMBA.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\BlogMBA.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T02:14:36.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T02:14:15.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Models\\RegisterUserViewModel.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.API\\Models\\RegisterUserViewModel.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Models\\RegisterUserViewModel.cs",
+              "RelativeToolTip": "src\\BlogMBA.API\\Models\\RegisterUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:44:39.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Models\\LoginUserViewModel.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.API\\Models\\LoginUserViewModel.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Models\\LoginUserViewModel.cs",
+              "RelativeToolTip": "src\\BlogMBA.API\\Models\\LoginUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:44:19.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.API\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "src\\BlogMBA.API\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:44:14.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\BlogMBA.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\appsettings.json",
+              "RelativeToolTip": "src\\BlogMBA.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T01:43:16.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Configuration\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.API\\Configuration\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Configuration\\IdentityConfig.cs",
+              "RelativeToolTip": "src\\BlogMBA.API\\Configuration\\IdentityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:42:41.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.API\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "src\\BlogMBA.API\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:19:33.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.API\\Program.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Program.cs",
+              "RelativeToolTip": "src\\BlogMBA.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:16:38.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogMBA.API",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\BlogMBA.API.csproj",
+              "RelativeDocumentMoniker": "src\\BlogMBA.API\\BlogMBA.API.csproj",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\BlogMBA.API.csproj",
+              "RelativeToolTip": "src\\BlogMBA.API\\BlogMBA.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T01:17:41.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseSelectorExtension.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Configurations\\DatabaseSelectorExtension.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Configurations\\DatabaseSelectorExtension.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Configurations\\DatabaseSelectorExtension.cs",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Configurations\\DatabaseSelectorExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:58:59.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContextConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Configuration\\DbContextConfig.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.API\\Configuration\\DbContextConfig.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Configuration\\DbContextConfig.cs",
+              "RelativeToolTip": "src\\BlogMBA.API\\Configuration\\DbContextConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:45:41.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\BlogMBA.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:50:07.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GerarJWT.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Utils\\GerarJWT.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.API\\Utils\\GerarJWT.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.API\\Utils\\GerarJWT.cs",
+              "RelativeToolTip": "src\\BlogMBA.API\\Utils\\GerarJWT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:52:29.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Comentarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Views\\Comentarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Comentarios\\Edit.cshtml",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Views\\Comentarios\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T01:08:33.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ListaComentarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Shared\\_ListaComentarios.cshtml",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Views\\Shared\\_ListaComentarios.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Shared\\_ListaComentarios.cshtml",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Views\\Shared\\_ListaComentarios.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T23:31:03.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Posts\\Details.cshtml",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Views\\Posts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Posts\\Details.cshtml",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Views\\Posts\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T23:36:51.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Configurations\\CustomUserManager.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Configurations\\CustomUserManager.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Configurations\\CustomUserManager.cs",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Configurations\\CustomUserManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:28:10.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T00:18:22.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.Business\\Models\\Comentarios\\Comentario.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.Business\\Models\\Comentarios\\Comentario.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.Business\\Models\\Comentarios\\Comentario.cs",
+              "RelativeToolTip": "src\\BlogMBA.Business\\Models\\Comentarios\\Comentario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:29:51.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ComentariosController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Controllers\\ComentariosController.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Controllers\\ComentariosController.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Controllers\\ComentariosController.cs",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Controllers\\ComentariosController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:28:10.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbMigrationHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Configurations\\DbMigrationHelpers.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Configurations\\DbMigrationHelpers.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Configurations\\DbMigrationHelpers.cs",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Configurations\\DbMigrationHelpers.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:34:05.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Comentarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Views\\Comentarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Comentarios\\Delete.cshtml",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Views\\Comentarios\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T00:51:47.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Posts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Views\\Posts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Posts\\Edit.cshtml",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Views\\Posts\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T01:02:54.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAG4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T00:19:34.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Posts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Views\\Posts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Posts\\Delete.cshtml",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Views\\Posts\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T00:52:15.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T00:19:05.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.Data\\Repository\\PostRepository.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.Data\\Repository\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.Data\\Repository\\PostRepository.cs",
+              "RelativeToolTip": "src\\BlogMBA.Data\\Repository\\PostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:21:18.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241112003509_AutorNoComentario.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.Data\\Migrations\\20241112003509_AutorNoComentario.cs",
+              "RelativeDocumentMoniker": "src\\BlogMBA.Data\\Migrations\\20241112003509_AutorNoComentario.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.Data\\Migrations\\20241112003509_AutorNoComentario.cs",
+              "RelativeToolTip": "src\\BlogMBA.Data\\Migrations\\20241112003509_AutorNoComentario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:35:10.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Comentarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\BlogMBA.MVC\\Views\\Comentarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.MVC\\Views\\Comentarios\\Create.cshtml",
+              "RelativeToolTip": "src\\BlogMBA.MVC\\Views\\Comentarios\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T23:27:59.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ewzw3+Ni04=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Documentos\\MBA\\Projetos\\Projetos\\BlogMBA\\src\\BlogMBA.Business\\BlogMBA.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
